@@ -1,0 +1,13 @@
+Instructions pour créer une image pixel art 32x32 avec fond bleu clair dans Aseprite:
+
+1. Ouvrez Aseprite
+2. Allez dans File > New
+3. Configurez:
+   - Largeur: 32px
+   - Hauteur: 32px
+   - Mode couleur: RGB
+4. Cliquez sur OK
+5. Sélectionnez l'outil Paint Bucket (G)
+6. Choisissez une couleur bleu clair (#87CEEB)
+7. Cliquez sur le canevas pour remplir
+8. Sauvegardez l'image (File > Save)
